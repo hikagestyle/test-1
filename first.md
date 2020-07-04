@@ -18,6 +18,12 @@ https://github.com/
 
 ### github.com
 
+
+example\@example.com
+
+https\://github.com/
+
+
 github.com
 
 example@example.com
