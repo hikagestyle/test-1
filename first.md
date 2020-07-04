@@ -19,9 +19,9 @@ https://github.com/
 ### github.com
 
 
-example\@example.com
+<span>example</span>@example.com
 
-https\://github.com/
+<span>https</span>://github.com/
 
 
 github.com
