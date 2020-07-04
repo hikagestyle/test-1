@@ -25,13 +25,18 @@
 
 github.com
 
-example@example.com
+https://github.com/
 
+
+example@example.com
 
 `example@example.com`
 
 
+## target blank
+
+失敗っぽい
+
 <a href="https://github.com/" target="_blank" rel="noopener noreferrer">https://github.com/</a>
 
-https://github.com/
 
