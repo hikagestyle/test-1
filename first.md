@@ -23,7 +23,7 @@ github.com
 example@example.com
 
 
-\example@example.com
+`example@example.com`
 
 
 <a href="https://github.com/" target="_blank" rel="noopener noreferrer">https://github.com/</a>
